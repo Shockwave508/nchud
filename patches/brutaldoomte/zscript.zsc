@@ -28,6 +28,8 @@ class NCH_BDTEHUD : NCH_BDHUD
 			NCHF_AddSingleAmmo("Clip2");
 			NCHF_AddSingleAmmo("MinigunAmmo");
 			NCHF_AddSingleAmmo("BuzzsawAmmoz");
+                        NCHF_AddSingleAmmo("Clip3");
+                        NCHF_AddSingleAmmo("AutomaticGrenade");
 			NCHF_AddSingleAmmo("AmmoRocket");
 			NCHF_AddSingleAmmo("AmmoCell");
 			NCHF_AddSingleAmmo("RailCore");
