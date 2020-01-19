@@ -1,2 +1,7 @@
 U_SoulAmmo     UNHWA0
 HellRocketAmmo FATBD0
+Clip3	       ACN1A0
+AutomaticGrenade GLRAD0
+GreenShell     2SHLA0
+RailCore       RGNAA0
+C4Ammo	       C4EWA0
